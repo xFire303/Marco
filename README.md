@@ -7,6 +7,7 @@ I'm a fullstack developer.
    <p align="left">
       <a href="https://www.linkedin.com/in/marco-bosco-7594a0262/">
          <img alt="linkedin" width="30px" title="Linkedin Profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/></a>
+      Linkedin Profile
    </p>
 
 ---
